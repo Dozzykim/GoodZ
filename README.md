@@ -64,4 +64,43 @@
 
 ## 5. 페이지 기능 미리보기
 
+### 전체 게시글
+- 유저들이 게시한 모든 게시글이 조회됩니다.
+- 비로그인 상태로도 조회 가능합니다.
+<img src="https://github.com/Dozzykim/GoodZ/blob/3b837b4670db883639029f54312e2080f3cfef86/img/allPosts.gif" alt="전체게시글" width="550">
+<br><br>
+
+
+### 유저 프로필
+- 유저의 프로필 화면에서는 해당 프로필계정의 팔로워/팔로잉 정보, 게시한 글들을 확인할 수 있습니다.
+- 게시글 클릭 시, 각 게시글의 상세페이지로 이동합니다.
+  - **본인** 프로필인 경우
+    - 프로필 관리 버튼 : ⭕활성화
+    - 우측 버튼: 게시글 등록 버튼 활성화 
+  - **타인** 프로필인 경우
+    - 프로필 관리 버튼: ❌비활성화
+    - 우측 버튼: 팔로우 버튼
+
+<img src="https://github.com/Dozzykim/GoodZ/blob/fbb809a14c58df99b4ae2f23080289d743100d68/img/profile.gif" alt="프로필" width="550">
+<br><br>
+
+### 팔로우 & 좋아요 기능
+- 프로필 계정의 팔로워/팔로잉 정보를 확인할 수 있습니다.
+- 조회하는 유저의 좋아요/관심에 따라 버튼이 세팅됩니다.
+<img src="https://github.com/Dozzykim/GoodZ/blob/3b837b4670db883639029f54312e2080f3cfef86/img/follow.gif" alt="팔로우기능" width="550">
+<img src="https://github.com/Dozzykim/GoodZ/blob/878b394cbba235aa8faf7c73d110387544087b19/img/like%26wish.gif" alt="좋아요/관심기능" width="550">
+<br><br>
+
+### 게시글 상세 및 댓글
+<img src="https://github.com/Dozzykim/GoodZ/blob/d1d8781b35f577fa115633412208c276d1575811/img/comment.gif" alt="게시글상세" width="550">
+<br><br>
+
+### 게시글 작성(/w 상품태그)
+<img src="https://github.com/Dozzykim/GoodZ/blob/d1d8781b35f577fa115633412208c276d1575811/img/insertPost.gif" alt="게시글작성" width="550">
+<br><br>
+
+### 게시글 삭제
+<img src="https://github.com/Dozzykim/GoodZ/blob/d67cdc76282b8853abc802dda04f66db90235c4b/img/deletePost.gif" alt="게시글삭제" width="550">
+<br><br>
+
 
