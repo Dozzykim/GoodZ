@@ -5,6 +5,8 @@
 # 👟한정판 중고거래 플랫폼 GOODZ
 > 개발기간: 2024.05.16 ~ 2024.06.16
 
+<br>
+
 ## 프로젝트 소개
 - GOODZ는 유저들이 한정판 중고상품을 사고 팔고, 최신트렌드와 일상을 공유할 수 있는 플랫폼으로, <br>
   동일한 플랫폼인 크림을 벤치마킹하여 개발하였습니다.
@@ -13,8 +15,9 @@
 - 전체 스타일 조회를 통해 다른 유저들의 게시글을 구경할 수 있습니다.
 - 다양한 유저들을 팔로우하며, 마음에 드는 게시글에 좋아요/관심을 누르거나 댓글을 작성할 수 있습니다.
 
-## 팀원 구성
+<br>
 
+## 팀원 구성
 <div align="center">
 
 | **박은서** | **김도희** | **전나연** | **이정용** |
@@ -32,6 +35,8 @@
 - 데이터베이스: MySQL
 - 협업툴: Github, Trello, Notion
 
+<br>
+
 ## 2. 핵심기능
 - 사용자 소셜로그인
 - 상품 매입/판매
@@ -39,9 +44,13 @@
 - 가격변동 시스템
 - SNS 커뮤니티
 
+<br>
+
 ## 프로젝트 구조
 <div align="center">
   <img src="https://github.com/Dozzykim/GoodZ/blob/7e0a6600fbaecab84ab1ff9bd17ebecf24146e5d/img/project-structure-user.JPG" alt="프로젝트구조-사용자" width="550">
   <img src="https://github.com/Dozzykim/GoodZ/blob/7e0a6600fbaecab84ab1ff9bd17ebecf24146e5d/img/project-structure-admin.JPG" alt="프로젝트구조-관리자" width="550">
 </div>
+
+<br>
 
