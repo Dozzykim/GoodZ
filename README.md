@@ -67,7 +67,7 @@
 ### 전체 게시글
 - 유저들이 게시한 모든 게시글이 조회됩니다.
 - 비로그인 상태로도 조회 가능합니다.
-<img src="https://github.com/Dozzykim/GoodZ/blob/3b837b4670db883639029f54312e2080f3cfef86/img/allPosts.gif" alt="전체게시글" width="550">
+<img src="https://github.com/Dozzykim/GoodZ/blob/3b837b4670db883639029f54312e2080f3cfef86/img/allPosts.gif" alt="전체게시글" width="700">
 <br><br>
 
 
@@ -81,7 +81,7 @@
     - 프로필 관리 버튼: ❌비활성화
     - 우측 버튼: 팔로우 버튼
 
-<img src="https://github.com/Dozzykim/GoodZ/blob/fbb809a14c58df99b4ae2f23080289d743100d68/img/profile.gif" alt="프로필" width="550">
+<img src="https://github.com/Dozzykim/GoodZ/blob/fbb809a14c58df99b4ae2f23080289d743100d68/img/profile.gif" alt="프로필" width="700">
 <br><br>
 
 ### 팔로우 & 좋아요 기능
@@ -89,7 +89,7 @@
 - 조회하는 유저의 좋아요/관심에 따라 버튼이 세팅됩니다. (fill 속성 - 'none' / 'solid')
 - 조회하는 유저의 팔로잉 정보에 따라 프로필 계정의 팔로워/팔로잉 목록 내의 계정 팔로우 버튼이 세팅됩니다.
 - 각 버튼 클릭 시, 비동기 방식을 사용하여 on&off 정보가 DB에 저장됩니다.
-<img src="https://github.com/Dozzykim/GoodZ/blob/3b837b4670db883639029f54312e2080f3cfef86/img/follow.gif" alt="팔로우기능" width="550">
+<img src="https://github.com/Dozzykim/GoodZ/blob/3b837b4670db883639029f54312e2080f3cfef86/img/follow.gif" alt="팔로우기능" width="700">
 <img src="https://github.com/Dozzykim/GoodZ/blob/878b394cbba235aa8faf7c73d110387544087b19/img/like%26wish.gif" alt="좋아요/관심기능" width="550">
 <br><br>
 
@@ -98,7 +98,7 @@
 - 작성자와 관심/좋아요/댓글 버튼, 게시글에 종속된 상품태그를 확인할 수 있습니다.
 - 관심/좋아요 버튼은 조회하는 유저를 기준으로 버튼의 활성화가 세팅됩니다.
 - 댓글은 등록/수정 가능하며, 본인의 댓글만 삭제 가능합니다.
-<img src="https://github.com/Dozzykim/GoodZ/blob/d1d8781b35f577fa115633412208c276d1575811/img/comment.gif" alt="게시글상세" width="550">
+<img src="https://github.com/Dozzykim/GoodZ/blob/d1d8781b35f577fa115633412208c276d1575811/img/comment.gif" alt="게시글상세" width="700">
 <br><br>
 
 ### 게시글 작성(/w 상품태그)
@@ -106,13 +106,13 @@
 - 상품 검색는 3글자 이상 입력해야하며, 브랜드 혹은 상품명에 키워드가 포함된 상품들이 검색결과로 조회됩니다.
 - 클릭 시 상품태그 박스에 추가가 되며, 상품태그 박스에 추가된 상품을 클릭 시 제거할 수 있습니다.
 - 게시글 수정과정도 이와 같습니다.
-<img src="https://github.com/Dozzykim/GoodZ/blob/d1d8781b35f577fa115633412208c276d1575811/img/insertPost.gif" alt="게시글작성" width="550">
+<img src="https://github.com/Dozzykim/GoodZ/blob/d1d8781b35f577fa115633412208c276d1575811/img/insertPost.gif" alt="게시글작성" width="700">
 <br><br>
 
 ### 게시글 삭제
 - 게시글 삭제 버튼 클릭 시, confirm을 통해 재확인 요청을 진행합니다.
 - 게시글 삭제 시, 게시글 이미지, 내용, 상품태그 뿐만 아니라 종속된 댓글까지 함께 삭제됩니다.
-<img src="https://github.com/Dozzykim/GoodZ/blob/d67cdc76282b8853abc802dda04f66db90235c4b/img/deletePost.gif" alt="게시글삭제" width="550">
+<img src="https://github.com/Dozzykim/GoodZ/blob/d67cdc76282b8853abc802dda04f66db90235c4b/img/deletePost.gif" alt="게시글삭제" width="700">
 <br><br>
 
 
