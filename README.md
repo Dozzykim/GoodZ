@@ -40,5 +40,8 @@
 - SNS 커뮤니티
 
 ## 프로젝트 구조
-
+<div align="center">
+  <img src="https://github.com/Dozzykim/GoodZ/blob/7e0a6600fbaecab84ab1ff9bd17ebecf24146e5d/img/project-structure-user.JPG" alt="프로젝트구조-사용자" width="550">
+  <img src="https://github.com/Dozzykim/GoodZ/blob/7e0a6600fbaecab84ab1ff9bd17ebecf24146e5d/img/project-structure-admin.JPG" alt="프로젝트구조-관리자" width="550">
+</div>
 
