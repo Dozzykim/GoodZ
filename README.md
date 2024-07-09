@@ -46,11 +46,22 @@
 
 <br>
 
-## 프로젝트 구조
+## 3. 프로젝트 구조
 <div align="center">
   <img src="https://github.com/Dozzykim/GoodZ/blob/7e0a6600fbaecab84ab1ff9bd17ebecf24146e5d/img/project-structure-user.JPG" alt="프로젝트구조-사용자" width="550">
   <img src="https://github.com/Dozzykim/GoodZ/blob/7e0a6600fbaecab84ab1ff9bd17ebecf24146e5d/img/project-structure-admin.JPG" alt="프로젝트구조-관리자" width="550">
 </div>
 
 <br>
+
+## 4. 담당 기능
+### 👩‍💻 김도희
+- **UI**
+  - 페이지 : 유저 프로필, 게시글 작성, 게시글 수정, 게시글 상세
+  - 기능 : 게시글(/w 상품태그) CRUD, 댓글 등록/삭제, 게시글/상품 관심 저장, 게시글 좋아요, 유저 간 팔로우 기능, 유저 정보 수정처리
+
+<br>
+
+## 5. 페이지 기능 미리보기
+
 
