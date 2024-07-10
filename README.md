@@ -211,6 +211,14 @@
 <br><br>
 
 ## 기능 한눈에 보기
+### 팔로우
+<img src="https://github.com/Dozzykim/GoodZ/blob/3b837b4670db883639029f54312e2080f3cfef86/img/follow.gif" alt="팔로우기능" width="700">
+<br><br>
+
+### 좋아요&관심
+<img src="https://github.com/Dozzykim/GoodZ/blob/878b394cbba235aa8faf7c73d110387544087b19/img/like%26wish.gif" alt="좋아요/관심기능" width="700">
+<br><br>
+
 ### 전체 게시글
 <img src="https://github.com/Dozzykim/GoodZ/blob/3b837b4670db883639029f54312e2080f3cfef86/img/allPosts.gif" alt="전체게시글" width="700">
 <br><br>
