@@ -2,7 +2,7 @@
 <img alt="logo" src="https://github.com/Dozzykim/GoodZ/blob/main/img/logo-s.png">
 </div>
 
-# 👟한정판 중고거래 플랫폼 GOODZ
+# 👟한정판 중고거래 플랫폼 GOODZ - SpringBoot MVC
 > 개발기간: 2024.05.16 ~ 2024.06.16
 
 <br>
