@@ -52,7 +52,8 @@
 - 🔎실시간 검색 기능
 - 📄게시글 CRUD
 - 🗨️댓글 조회/등록/삭제
-
+<br>
+[기능 한눈에 보기](#기능-한눈에-보기)
 <br>
 
 ## 4. 기능 자세히 보기
@@ -72,6 +73,7 @@
 3. **팔로우/언팔로우 동작**
     - **요청 구분**: 버튼 클릭 시, 버튼 요소가 함수에 인자로 전달되며, 클래스명으로 팔로우 상태를 구분하여 비동기 요청을 보냅니다.
     - **응답 처리**: 서버로부터 처리 성공 여부 응답에 따라 팔로워/팔로잉 목록을 재 호출하여 UI와 목록을 실시간으로 업데이트하여 표시합니다.
+<img src="https://github.com/Dozzykim/GoodZ/blob/3b837b4670db883639029f54312e2080f3cfef86/img/follow.gif" alt="팔로우기능" width="700">
 <br><br>
 
 ### ❤️📌좋아요 &관심 기능
@@ -85,12 +87,12 @@
         - 상품의 경우, 상세 페이지에서만 관심 저장 기능이 사용되어, 체크 여부를 담은 boolean 타입 변수를 모델에 담아 뷰로 전달하였습니다.
         <br>
         이후 Thymeleaf를 사용해 상태에 따라 동적으로 렌더링하여 표시합니다.
-        <br><br>
 
 2. **On & Off 동작**
     - **요청 구분**: 버튼 클릭 시, 버튼 요소와 함께 부모 테이블 정보와 게시글/상품 번호가 함수에 인자로 전달되며, svg 아이콘의 fill 속성으로 상태를 구분하여 비동기 요청을 보냅니다.
     - **응답 처리**: 서버로부터 처리성공 여부 응답에 따라 fill 속성을 변경하여 상태를 표시합니다.
 
+<img src="https://github.com/Dozzykim/GoodZ/blob/878b394cbba235aa8faf7c73d110387544087b19/img/like%26wish.gif" alt="좋아요/관심기능" width="700">
 <br><br>
 
 ### 🔎실시간 검색 기능(상품태그)
@@ -203,3 +205,26 @@
     - 유저 프로필를 출력할 뷰: “/post/user/profile”
     - 만약, 조회 요청경로와 뷰의 경로가 일치했다면, 모델에 담아 리다이렉트를 하는 방식으로 해결할 수 있었지만, 노출되는 프로필 URL을 변경없이 해결하고자 하였습니다.
 - **해결방법**: 비동기 요청으로 진행하여 처리 여부를 String 타입으로 반환해 준 다음, 응답에 따라 자바스크립트를 통해 자연스럽게 유저의 프로필로 리다이렉트 처리하였습니다.
+
+<br><br>
+
+## 기능 한눈에 보기
+### 전체 게시글
+<img src="https://github.com/Dozzykim/GoodZ/blob/3b837b4670db883639029f54312e2080f3cfef86/img/allPosts.gif" alt="전체게시글" width="700">
+<br><br>
+
+### 유저 프로필
+<img src="https://github.com/Dozzykim/GoodZ/blob/fbb809a14c58df99b4ae2f23080289d743100d68/img/profile.gif" alt="프로필" width="700">
+<br><br>
+
+### 게시글 상세 및 댓글
+<img src="https://github.com/Dozzykim/GoodZ/blob/d1d8781b35f577fa115633412208c276d1575811/img/comment.gif" alt="게시글상세" width="700">
+<br><br>
+
+### 게시글 작성(/w 상품태그)
+<img src="https://github.com/Dozzykim/GoodZ/blob/d1d8781b35f577fa115633412208c276d1575811/img/insertPost.gif" alt="게시글작성" width="700">
+<br><br>
+
+### 게시글 삭제
+<img src="https://github.com/Dozzykim/GoodZ/blob/d67cdc76282b8853abc802dda04f66db90235c4b/img/deletePost.gif" alt="게시글삭제" width="700">
+<br><br>
